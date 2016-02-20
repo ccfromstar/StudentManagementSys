@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v6.0"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="lib" path="D:/download/json-lib-2.3-jdk15.jar"/>
+	<classpathentry kind="lib" path="D:/download/json依赖包/ezmorph-1.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/download/json依赖包/commons-collections.jar"/>
+	<classpathentry kind="lib" path="D:/download/json依赖包/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="D:/download/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/download/json.jar"/>
+	<classpathentry kind="lib" path="D:/D3/java/classpackge/dcrf.jar"/>
+	<classpathentry kind="lib" path="D:/JSP/jexcelapi_2_6_12/jexcelapi/jxl.jar"/>
+	<classpathentry kind="lib" path="D:/手机短信API/NOSms.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/lotus/notes/jvm/lib/ext/jcommon-1.0.12.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/lotus/notes/jvm/lib/ext/jfreechart-1.0.9.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
